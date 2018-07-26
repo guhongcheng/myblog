@@ -1,0 +1,1584 @@
+[<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td rowspan="2" width="74">省/直辖市</td>
+<td rowspan="2" width="83">城市</td>
+<td colspan="3" height="37">周四(5月31日)白天</td>
+<td colspan="3">周四(5月31日)夜间</td>
+<td class="last" rowspan="2" width="49"> </td>
+</tr>
+<tr>
+<td height="23" width="89">天气现象</td>
+<td width="162">风向风力</td>
+<td width="92">最高气温</td>
+<td width="98">天气现象</td>
+<td width="177">风向风力</td>
+<td width="86">最低气温</td>
+</tr>
+<tr>
+<td class="rowsPan" rowspan="21" width="74">
+<a href="/textFC/sichuan.shtml" target="_blank">四川</a>
+</td>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270101.shtml" target="_blank">成都</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">27</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270101.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270201.shtml" target="_blank">攀枝花</a></td>
+<td width="89">中雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">28</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270201.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270301.shtml" target="_blank">自贡</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">26</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270301.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270401.shtml" target="_blank">绵阳</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">28</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270401.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270501.shtml" target="_blank">南充</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">27</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270501.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270601.shtml" target="_blank">达州</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">27</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270601.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270701.shtml" target="_blank">遂宁</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">26</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270701.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270801.shtml" target="_blank">广安</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">25</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270801.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101270901.shtml" target="_blank">巴中</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">28</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101270901.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271001.shtml" target="_blank">泸州</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271001.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271101.shtml" target="_blank">宜宾</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271101.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271201.shtml" target="_blank">内江</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">26</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271201.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271301.shtml" target="_blank">资阳</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">27</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271301.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271401.shtml" target="_blank">乐山</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">27</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271401.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271501.shtml" target="_blank">眉山</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">27</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271501.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271601.shtml" target="_blank">凉山</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">22</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">14</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271601.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271701.shtml" target="_blank">雅安</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">25</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271701.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271801.shtml" target="_blank">甘孜</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">5</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271801.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101271901.shtml" target="_blank">阿坝</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">16</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">6</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101271901.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101272001.shtml" target="_blank">德阳</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">27</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101272001.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101272101.shtml" target="_blank">广元</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">28</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101272101.shtml" target="_blank">详情</a></td>
+</tr>
+</table>, <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td rowspan="2" width="74">省/直辖市</td>
+<td rowspan="2" width="83">城市</td>
+<td colspan="3" height="37">周四(5月31日)白天</td>
+<td colspan="3">周四(5月31日)夜间</td>
+<td class="last" rowspan="2" width="49"> </td>
+</tr>
+<tr>
+<td height="23" width="89">天气现象</td>
+<td width="162">风向风力</td>
+<td width="92">最高气温</td>
+<td width="98">天气现象</td>
+<td width="177">风向风力</td>
+<td width="86">最低气温</td>
+</tr>
+<tr>
+<td class="rowsPan" rowspan="40" width="74">
+<a href="/textFC/chongqing.shtml" target="_blank">重庆</a>
+</td>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101040100.shtml" target="_blank">重庆</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101040100.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101040200.shtml" target="_blank">永川</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101040200.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101040300.shtml" target="_blank">合川</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101040300.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101040400.shtml" target="_blank">南川</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">20</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101040400.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101040500.shtml" target="_blank">江津</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101040500.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101040700.shtml" target="_blank">渝北</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101040700.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101040800.shtml" target="_blank">北碚</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101040800.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101040900.shtml" target="_blank">巴南</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101040900.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041000.shtml" target="_blank">长寿</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041000.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041100.shtml" target="_blank">黔江</a></td>
+<td width="89">中雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">15</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041100.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041200.shtml" target="_blank">渝中</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041200.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041300.shtml" target="_blank">万州</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041300.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041400.shtml" target="_blank">涪陵</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041400.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041500.shtml" target="_blank">开县</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041500.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041600.shtml" target="_blank">城口</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">13</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041600.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041700.shtml" target="_blank">云阳</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">22</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041700.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041800.shtml" target="_blank">巫溪</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">22</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">15</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041800.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101041900.shtml" target="_blank">奉节</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101041900.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042000.shtml" target="_blank">巫山</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">14</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042000.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042100.shtml" target="_blank">潼南</a></td>
+<td width="89">阴</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">25</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042100.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042200.shtml" target="_blank">垫江</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042200.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042300.shtml" target="_blank">梁平</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042300.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042400.shtml" target="_blank">忠县</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">20</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042400.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042500.shtml" target="_blank">石柱</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042500.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042600.shtml" target="_blank">大足</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042600.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042700.shtml" target="_blank">荣昌</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042700.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042800.shtml" target="_blank">铜梁</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">26</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042800.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101042900.shtml" target="_blank">璧山</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101042900.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043000.shtml" target="_blank">丰都</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">20</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043000.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043100.shtml" target="_blank">武隆</a></td>
+<td width="89">中雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043100.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043200.shtml" target="_blank">彭水</a></td>
+<td width="89">中雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">20</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">18</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043200.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043300.shtml" target="_blank">綦江</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043300.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043400.shtml" target="_blank">酉阳</a></td>
+<td width="89">中雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">17</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">14</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043400.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043500.shtml" target="_blank">大渡口</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043500.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043600.shtml" target="_blank">秀山</a></td>
+<td width="89">中雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">17</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043600.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043700.shtml" target="_blank">江北</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043700.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043800.shtml" target="_blank">沙坪坝</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043800.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101043900.shtml" target="_blank">九龙坡</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101043900.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101044000.shtml" target="_blank">南岸</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">24</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101044000.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101044100.shtml" target="_blank">开州</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101044100.shtml" target="_blank">详情</a></td>
+</tr>
+</table>, <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td rowspan="2" width="74">省/直辖市</td>
+<td rowspan="2" width="83">城市</td>
+<td colspan="3" height="37">周四(5月31日)白天</td>
+<td colspan="3">周四(5月31日)夜间</td>
+<td class="last" rowspan="2" width="49"> </td>
+</tr>
+<tr>
+<td height="23" width="89">天气现象</td>
+<td width="162">风向风力</td>
+<td width="92">最高气温</td>
+<td width="98">天气现象</td>
+<td width="177">风向风力</td>
+<td width="86">最低气温</td>
+</tr>
+<tr>
+<td class="rowsPan" rowspan="9" width="74">
+<a href="/textFC/guizhou.shtml" target="_blank">贵州</a>
+</td>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260101.shtml" target="_blank">贵阳</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>北风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">中雨</td>
+<td width="177">
+<span>北风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">14</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260101.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260201.shtml" target="_blank">遵义</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>东风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">20</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>东风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260201.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260301.shtml" target="_blank">安顺</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>东北风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">小到中雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">14</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260301.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260401.shtml" target="_blank">黔南</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">19</td>
+<td width="98">中到大雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">15</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260401.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260501.shtml" target="_blank">黔东南</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>北风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>北风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260501.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260601.shtml" target="_blank">铜仁</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260601.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260701.shtml" target="_blank">毕节</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">18</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">14</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260701.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260801.shtml" target="_blank">六盘水</a></td>
+<td width="89">中雨</td>
+<td width="162">
+<span>北风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">16</td>
+<td width="98">中雨</td>
+<td width="177">
+<span>北风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">12</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260801.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101260901.shtml" target="_blank">黔西南</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>东风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">中雨</td>
+<td width="177">
+<span>东风</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101260901.shtml" target="_blank">详情</a></td>
+</tr>
+</table>, <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td rowspan="2" width="74">省/直辖市</td>
+<td rowspan="2" width="83">城市</td>
+<td colspan="3" height="37">周四(5月31日)白天</td>
+<td colspan="3">周四(5月31日)夜间</td>
+<td class="last" rowspan="2" width="49"> </td>
+</tr>
+<tr>
+<td height="23" width="89">天气现象</td>
+<td width="162">风向风力</td>
+<td width="92">最高气温</td>
+<td width="98">天气现象</td>
+<td width="177">风向风力</td>
+<td width="86">最低气温</td>
+</tr>
+<tr>
+<td class="rowsPan" rowspan="16" width="74">
+<a href="/textFC/yunnan.shtml" target="_blank">云南</a>
+</td>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290101.shtml" target="_blank">昆明</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290101.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290201.shtml" target="_blank">大理</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">13</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290201.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290301.shtml" target="_blank">红河</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">28</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290301.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290401.shtml" target="_blank">曲靖</a></td>
+<td width="89">大雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">大雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">14</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290401.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290501.shtml" target="_blank">保山</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290501.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290601.shtml" target="_blank">文山</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">28</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290601.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290701.shtml" target="_blank">玉溪</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">22</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">15</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290701.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290801.shtml" target="_blank">楚雄</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">22</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">15</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290801.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101290901.shtml" target="_blank">普洱</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">26</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">17</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101290901.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101291001.shtml" target="_blank">昭通</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">15</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">12</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101291001.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101291101.shtml" target="_blank">临沧</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">25</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">16</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101291101.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101291201.shtml" target="_blank">怒江</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">23</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101291201.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101291301.shtml" target="_blank">迪庆</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">16</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">5</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101291301.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101291401.shtml" target="_blank">丽江</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">21</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">12</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101291401.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101291501.shtml" target="_blank">德宏</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">27</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">19</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101291501.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101291601.shtml" target="_blank">西双版纳</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">31</td>
+<td width="98">阵雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">21</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101291601.shtml" target="_blank">详情</a></td>
+</tr>
+</table>, <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td rowspan="2" width="74">省/直辖市</td>
+<td rowspan="2" width="83">城市</td>
+<td colspan="3" height="37">周四(5月31日)白天</td>
+<td colspan="3">周四(5月31日)夜间</td>
+<td class="last" rowspan="2" width="49"> </td>
+</tr>
+<tr>
+<td height="23" width="89">天气现象</td>
+<td width="162">风向风力</td>
+<td width="92">最高气温</td>
+<td width="98">天气现象</td>
+<td width="177">风向风力</td>
+<td width="86">最低气温</td>
+</tr>
+<tr>
+<td class="rowsPan" rowspan="7" width="74">
+<a href="/textFC/xizang.shtml" target="_blank">西藏</a>
+</td>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101140101.shtml" target="_blank">拉萨</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">20</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">4</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101140101.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101140201.shtml" target="_blank">日喀则</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">18</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">5</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101140201.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101140301.shtml" target="_blank">山南</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">20</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">7</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101140301.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101140401.shtml" target="_blank">林芝</a></td>
+<td width="89">阴</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">18</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">9</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101140401.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101140501.shtml" target="_blank">昌都</a></td>
+<td width="89">小雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">18</td>
+<td width="98">小雨</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">7</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101140501.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101140601.shtml" target="_blank">那曲</a></td>
+<td width="89">阵雨</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">11</td>
+<td width="98">多云</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">1</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101140601.shtml" target="_blank">详情</a></td>
+</tr>
+<tr>
+<td height="23" width="83">
+<a href="http://www.weather.com.cn/weather/101140701.shtml" target="_blank">阿里</a></td>
+<td width="89">多云</td>
+<td width="162">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="92">14</td>
+<td width="98">晴</td>
+<td width="177">
+<span>无持续风向</span>
+<span class="conMidtabright">&lt;3级</span></td>
+<td width="86">-1</td>
+<td class="last" width="49">
+<a href="http://www.weather.com.cn/weather/101140701.shtml" target="_blank">详情</a></td>
+</tr>
+</table>]
