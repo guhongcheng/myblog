@@ -40,7 +40,7 @@ query-string==1.0.1
 request==1.0.1
 requests==2.6.0
 six==1.10.0
-urllib3==1.22
+urllib3==1.26.5
 wechat-sdk==0.6.4
 wechatpy==1.7.0
 Whoosh==2.7.4
